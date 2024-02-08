@@ -1,0 +1,25 @@
+IT Sector
+Sure, here are some observations from the dashboard All Stock vs Nifty 50:
+
+The Nifty 50 has outperformed all other stocks in the past year.
+KPIT has outperformed the Nifty 50 in the past year.
+Infosys has underperformed the Nifty 50 in the past year.
+The stock market has been volatile in the past year.
+I hope this helps! Let me know if you have any other questions.
+
+Daily return
+
+Overall performance:
+
+All companies vs Nifty: It appears that all companies outperformed Nifty 50 in terms of daily returns, based on the "SUM(Daily Returns)" values. The sum of daily returns for all companies is 11782, while that for Nifty 50 is 3408. This suggests that on average, individual stocks had higher daily returns than the Nifty 50 index.
+Volatility: However, the "Volatility all Company vs Nitty" measure suggests that all companies were also more volatile than Nifty 50. This means that the daily returns of individual stocks fluctuated more than the Nifty 50 index.
+Individual company performance:
+
+KPIT: KPIT seems to have outperformed both Nifty 50 and the average of all companies in terms of daily returns. Its "SUM(Daily Returns)" value is 404, which is higher than both Nifty 50 and the average.
+TCS: TCS also appears to have performed well, with a "SUM(Daily Returns)" value of 3070. However, its daily returns seem to be more volatile than KPIT's, as indicated by its higher "Volatility" value.
+Infosys and HCL Tech: Infosys and HCL Tech seem to have underperformed compared to Nifty 50 and the average of all companies in terms of daily returns. Their "SUM(Daily Returns)" values are lower than both Nifty 50 and the average.
+Other observations:
+
+The data seems to be for the year 2023.
+The dashboard also includes measures for daily returns, moving average, volume, and close price for Nifty 50 and all companies.
+Please note:
